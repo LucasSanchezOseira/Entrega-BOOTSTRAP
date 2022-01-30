@@ -1,0 +1,44 @@
+p{
+    margin-top: 50px;
+    font-weight: bold;
+    text-align: center ;
+}
+
+footer{
+    background-color: pink;
+}
+
+.color-menu{
+    background-color: pink;
+}
+
+.navbar-brand:hover{
+    transform: scale(1.2);
+}
+
+.img-productos{
+    width: 100%;
+    margin-top: 50px;
+}
+
+body{
+    background-color: rgb(255, 231, 235);
+}
+
+.footerProductos{
+    margin-top: 10px;
+}
+
+.img-nosotros{
+    width: 100%;
+    margin-top: 100px;
+    margin-left: 0;
+}
+
+.p-nosotros{
+    margin-top: 20%;
+}
+
+.footerNosotros{
+   margin-top: 85px;
+}
